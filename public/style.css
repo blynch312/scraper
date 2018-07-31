@@ -8,6 +8,11 @@ h1 {
     font-family: 'Chicle', cursive;
 }
 
+ h2 {
+     margin-left: 5%;
+     font-family: 'Chicle', cursive;
+ }
+
 body {
     background: linear-gradient( #5cec80, #47b947)
 }
